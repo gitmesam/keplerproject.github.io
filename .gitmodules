@@ -1,0 +1,4 @@
+[submodule "luarocks_test"]
+	path = luarocks_test
+	url = https://github.com/luarocks/luarocks
+	branch = gh-pages
